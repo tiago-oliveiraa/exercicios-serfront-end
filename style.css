@@ -1,0 +1,26 @@
+h1{
+    background-color: rgb(182, 182, 25);
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    color: red;
+    background-color: rgb(175, 145, 145);
+
+}
+
+span{
+    color: blue;
+    font-size: 18px;
+}
+
+body{
+    margin: auto 500px;
+    background-color: white;
+}
+
+html{
+    background-color: black;
+}
