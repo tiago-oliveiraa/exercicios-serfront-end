@@ -2,6 +2,7 @@ h1{
     background-color: rgb(182, 182, 25);
     color: red;
     text-align: center;
+    margin-top: -20px;
 }
 
 h2{
@@ -17,10 +18,21 @@ span{
 }
 
 body{
-    margin: auto 500px;
+    margin: auto 300px;
     background-color: white;
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
 }
 
 html{
     background-color: black;
 }
+
+.ajuste{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
